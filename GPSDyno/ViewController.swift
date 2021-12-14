@@ -130,7 +130,6 @@ class ViewController: UIViewController, CLLocationManagerDelegate, UITextFieldDe
                     if PowerInCv > self.varMaxPower
                     {
                         self.varMaxPower = PowerInCv
-//                        self.lbMaxCV.text = "MaxCV: \(Int(self.varMaxPower)) cv"
                         self.lbMaxCV.text = String(format: "MaxCV: %.2f", self.varMaxPower)
                     }
                     
@@ -206,10 +205,8 @@ class ViewController: UIViewController, CLLocationManagerDelegate, UITextFieldDe
         update = update + 1 // just the current data update, for logs only
         
         DispatchQueue.main.async {
-            let vTimeInterval = vLocation.timestamp.timeIntervalSince(self.varLastTimeStamp)
-            self.lbDebug.text =  "TimeInterval:\(vTimeInterval)\nUpdate:\(self.update)"
+            self.lbDebug.text =  "Update:\(self.update)"
         }
-        
     }
 
     //keyboard and stuff
