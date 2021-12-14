@@ -29,3 +29,6 @@ Mas eu posso ter feito algo errado, então verifique novamente e me conte se dá
 
 Obrigado.
 
+
+
+![Emulator screenshot sample](/ScreenShotEmulator.png)
