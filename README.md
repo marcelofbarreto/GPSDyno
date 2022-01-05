@@ -1,6 +1,6 @@
 # GPSDyno
 
-Portable dynamometer based on GPS dara and weight.
+Portable dynamometer based on GPS data and weight.
 
 Measure the power output of a car or any moving vehicle from weight and GPS data from your iOS device.
 
