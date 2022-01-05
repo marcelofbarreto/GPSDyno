@@ -1,5 +1,8 @@
 # GPSDyno
-Measure the power output from a car or any moving vehicle from weight and GPS data of your iOS device.
+
+Portable dynamometer based on GPS dara and weight.
+
+Measure the power output of a car or any moving vehicle from weight and GPS data from your iOS device.
 
 This is just a example project and should not be used for anything other than learning and curiosity.
 
@@ -14,6 +17,8 @@ But I could have done something wrong, so double check it and tell me if it real
 Thanks.
 
 **Em Português do Brasil:**
+
+Dinamômetro portátil baseado nos dados de GPS e no peso do veículo.
 
 Meça a potência de um carro ou qualquer veículo em movimento a partir do seu peso e dados do GPS do seu dispositivo iOS.
 
